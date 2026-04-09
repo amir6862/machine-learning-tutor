@@ -1,4 +1,4 @@
-# 🤖 Core Machine Learning —  Teacher
+#  Core Machine Learning —  Teacher
 
 > An AI-powered interactive learning app for Core Machine Learning concepts, built with React and Claude AI.
 
